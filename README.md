@@ -1,6 +1,6 @@
-# module1
+# api call using bloc
 
-A new Flutter project.
+This project contains api call of login and listview using bloc state management pattern.
 
 ## Getting Started
 
