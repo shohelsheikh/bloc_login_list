@@ -1,0 +1,23 @@
+
+1. Login for Branch  - customer login page and new api
+
+2. Home page - check the subscription and show popup your subscription is end ... hid floating button if not subscribe
+
+New : All trip of branch which are not confirmed or expiry.
+Confirmed, : completed trips 
+On The Way : driver marked on the way toward pickup location
+In Shipment : completed picked and inshipment 
+and completed and cancelled tabs on bottom 
+
+3. Post Trip 
+
+a. Enter delivery location and details, can be 1 to 3 
+b. calculate distance to show distance
+c. Add tip ( No Isurance)
+d. Confirmation about terms 
+
+4. Show posted deliveries on home page under respective tab status
+5. Show trip details same as now (just remove chat option)
+
+
+"com.app.saygoenterprise"
